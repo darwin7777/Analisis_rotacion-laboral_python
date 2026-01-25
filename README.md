@@ -13,6 +13,11 @@ Se identificaron patrones clave y se generaron insights relevantes para apoyar l
 - 🐍 Python: pandas, numpy, matplotlib, seaborn  
 - 📓 Jupyter Notebook para análisis interactivo y visualizaciones
 
+## 📈 Visualizaciones destacadas
+(images/Insight1.png)
+(images/Insight2.png)
+(images/Insight3.png)
+
 ## 📂 Archivos del proyecto
 - [Notebook de análisis](ProyectoPython.ipynb)  
 - [Informe en PDF](Informefinal.pdf)  
