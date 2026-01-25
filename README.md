@@ -14,9 +14,9 @@ Se identificaron patrones clave y se generaron insights relevantes para apoyar l
 - 📓 Jupyter Notebook para análisis interactivo y visualizaciones
 
 ## 📈 Visualizaciones destacadas
-![] (imagenes/Insight1.png)
-![] (imagenes/Insight2.png)
-![] (imagenes/Insight3.png)
+![](imagenes/Insight1.png)
+![](imagenes/Insight2.png)
+![](imagenes/Insight3.png)
 
 ## 📂 Archivos del proyecto
 - [Notebook de análisis](ProyectoPython.ipynb)  
