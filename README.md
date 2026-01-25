@@ -15,6 +15,9 @@ Se identificaron patrones clave y se generaron insights relevantes para apoyar l
 
 ## 📈 Visualizaciones destacadas
 ![](imagenes./Insight1.png)
+![](imagenes./Insight2.png)
+![](imagenes./Insight3.png)
+
 ## 📂 Archivos del proyecto
 - [Notebook de análisis](ProyectoPython.ipynb)  
 - [Informe en PDF](Informefinal.pdf)  
