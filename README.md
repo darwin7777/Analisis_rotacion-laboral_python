@@ -20,4 +20,4 @@ Se identificaron patrones clave y se generaron insights relevantes para apoyar l
 
 ## 📂 Archivos del proyecto
 - [Notebook de análisis](ProyectoPython.ipynb)  
-- [Informe en PDF](Informe final.pdf)  
+- [Informe en PDF](Informe final.pdf) 
